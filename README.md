@@ -1,0 +1,2 @@
+# OfflineDetectionSystem_for_NeurodegenerativeDiseases
+A system for Neurodegenerative Diseases detection by offline handwriting analysis
